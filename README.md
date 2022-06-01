@@ -1,4 +1,5 @@
 # Hotel-website
-Hotel website fully responsive , created using Sass and flexbox 
+A fully responsive landing page created with HTML5 and SASS 
 
-![Capture1](https://user-images.githubusercontent.com/94356500/164704571-e041f554-3cf1-41ec-bfa0-c69c0be6cea2.JPG)
+
+![Beige Launching New Website Mockup Instagram Post](https://user-images.githubusercontent.com/94356500/171479111-99105400-cdb7-431f-a717-bcab200aca0d.png)
